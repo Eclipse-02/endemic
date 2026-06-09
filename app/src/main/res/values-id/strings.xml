@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Endemik</string>
+    <string name="title_home">Endemik</string>
+    <string name="title_detail">Detail</string>
+    <string name="title_search">Cari</string>
+    <string name="title_favorites">Favorit</string>
+    <string name="nav_animals">Hewan</string>
+    <string name="nav_plants">Tumbuhan</string>
+    <string name="action_add_favorite">Tambah ke Favorit</string>
+    <string name="action_remove_favorite">Hapus dari Favorit</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_details">Detail Spesies</string>
+    <string name="hint_search">Cari spesies endemik…</string>
+    <string name="region_all">Semua Wilayah</string>
+    <string name="region_sumatera">Sumatera</string>
+    <string name="region_jawa">Jawa</string>
+    <string name="region_kalimantan">Kalimantan</string>
+    <string name="region_sulawesi">Sulawesi</string>
+    <string name="region_papua">Papua</string>
+    <string name="toast_added">Ditambahkan ke Favorit</string>
+    <string name="toast_removed">Dihapus dari Favorit</string>
+    <string name="toast_fetch_failed">Gagal mengambil data</string>
+</resources>

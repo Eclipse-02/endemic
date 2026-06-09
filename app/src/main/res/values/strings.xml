@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Endemic</string>
+    <string name="title_home">Endemic</string>
+    <string name="title_detail">Detail</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="nav_animals">Animals</string>
+    <string name="nav_plants">Plants</string>
+    <string name="action_add_favorite">Add to Favorite</string>
+    <string name="action_remove_favorite">Remove from Favorite</string>
+    <string name="label_description">Description</string>
+    <string name="label_details">Details</string>
+    <string name="hint_search">Search endemic species...</string>
+    <string name="region_all">All Regions</string>
+    <string name="region_sumatera">Sumatera</string>
+    <string name="region_jawa">Jawa</string>
+    <string name="region_kalimantan">Kalimantan</string>
+    <string name="region_sulawesi">Sulawesi</string>
+    <string name="region_papua">Papua</string>
+    <string name="toast_added">Added to Favorites</string>
+    <string name="toast_removed">Removed from Favorites</string>
+    <string name="toast_fetch_failed">Failed to fetch data</string>
+    <string name="name">Rafa Umar Abdus Syakur</string>
+</resources>
