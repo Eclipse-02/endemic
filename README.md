@@ -1,5 +1,11 @@
 # Endemic
 
+## Informasi Mahasiswa
+
+- Nama : Rafa Umar Abdus Syakur
+- NIM : 2410501045
+- Kelas : B
+
 ## Deskripsi Aplikasi
 
 Endemic adalah aplikasi katalog ensiklopedia hewan dan tumbuhan endemik Indonesia yang dikembangkan untuk platform Android menggunakan Java. 
